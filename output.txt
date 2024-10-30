@@ -1,0 +1,28 @@
+Student: 1 added
+Student: 2 added
+Invalid name
+Student: 4 added
+Invalid student id
+Exam: 10 added
+Exam: 11 added
+Invalid duration
+Invalid software
+Invalid exam id
+Grade 85 added for the student: 1
+Grade 90 added for the student: 2
+Exam not found
+Student not found
+Invalid grade
+ID: 1, Name: Alaa, Faculty: Software
+Student not found
+Exam: 10, Student: 1, Name: Alaa, Grade: 85, Type: WRITTEN, Info: 90
+Exam: 11, Student: 2, Name: Marko, Grade: 90, Type: DIGITAL, Info: Python
+Student not found
+Exam: 11 updated
+Invalid exam type
+Grade 95 updated for the student: 2
+Invalid grade
+Student: 2 deleted
+Student not found
+ID: 1, Name: Alaa, Faculty: Software
+ID: 4, Name: Rawan, Faculty: Short

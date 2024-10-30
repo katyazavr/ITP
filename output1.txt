@@ -1,0 +1,37 @@
+ID: 101, Name: Munir, Faculty: SoftwareEngineering
+ID: 102, Name: Marko, Faculty: ComputerScience
+ID: 103, Name: Alaa, Faculty: DataScience
+ID: 104, Name: Mahmoud, Faculty: CyberSecurity
+Student not found
+Student: 105 deleted
+Invalid grade
+Grade 95 updated for the student: 101
+Invalid exam type
+Exam: 202 updated
+Exam: 201, Student: 101, Name: Munir, Grade: 85, Type: WRITTEN, Info: 90
+ID: 101, Name: Munir, Faculty: SoftwareEngineering
+Invalid grade
+Grade 80 added for the student: 105
+Grade 75 added for the student: 105
+Grade 85 added for the student: 104
+Grade 80 added for the student: 104
+Grade 95 added for the student: 103
+Grade 92 added for the student: 103
+Grade 88 added for the student: 102
+Grade 78 added for the student: 102
+Grade 90 added for the student: 101
+Grade 85 added for the student: 101
+Exam: 205 already exists
+Exam: 205 added
+Exam: 204 added
+Exam: 203 added
+Exam: 202 added
+Exam: 201 added
+Invalid name
+Invalid faculty
+Student: 105 already exists
+Student: 105 added
+Student: 104 added
+Student: 103 added
+Student: 102 added
+Student: 101 added
